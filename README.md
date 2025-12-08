@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [.ZONE one word domains
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.zone           | premium   | 70       | 38%    | 3      |           |         |         |
-| AAAA.zone          | available | 68       | 84%    | 4      |           |         |         |
-| aak.zone           | available | 68       | 32%    | 3      |           |         |         |
-| AandE.zone         | available | 50       | 80%    | 7      |           |         |         |
-| aardwolf.zone      | available | 54       | 84%    | 8      |           |         |         |
-| aargh.zone         | available | 56       | 76%    | 5      |           |         |         |
-| aaronburr.zone     | available | 54       | 72%    | 10     |           |         |         |
-| aarp.zone          | premium   | 58       | 76%    | 4      |           |         |         |
-| aba.zone           | premium   | 72       | 88%    | 3      |           |         |         |
-| aback.zone         | available | 76       | 80%    | 5      |           |         |         |
-| abactinal.zone     | available | 50       | 1%     | 9      |           |         |         |
-| abaft.zone         | available | 43       | 2%     | 5      |           |         |         |
-| abalone.zone       | available | 60       | 84%    | 7      |           |         |         |
-| abashed.zone       | available | 60       | 2%     | 7      |           |         |         |
-| abasic.zone        | available | 54       | 2%     | 6      |           |         |         |
-| abatable.zone      | available | 54       | 1%     | 8      |           |         |         |
-| abate.zone         | available | 52       | 84%    | 5      |           |         |         |
-| abatement.zone     | available | 52       | 80%    | 9      |           |         |         |
-| abatic.zone        | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.zone       | available | 54       | 2%     | 7      |           |         |         |
-| abaxially.zone     | available | 44       | 72%    | 9      |           |         |         |
-| abbatial.zone      | available | 50       | 1%     | 8      |           |         |         |
-| abbey.zone         | available | 56       | 80%    | 5      |           |         |         |
-| abbot.zone         | available | 50       | 80%    | 5      |           |         |         |
-| abbotcy.zone       | available | 56       | 72%    | 7      |           |         |         |
-| Abbott.zone        | available | 52       | 96%    | 6      |           |         |         |
-| abbreviate.zone    | available | 92       | 76%    | 10     |           |         |         |
-| abbreviated.zone   | available | 56       | 76%    | 11     |           |         |         |
-| abbreviater.zone   | available | 56       | 72%    | 11     |           |         |         |
-| abcconjecture.zone | available | 56       | 4%     | 14     |           |         |         |
+| Domain             | Status    | Attract. | Demand | Length | Registrar   | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | ----------- | ---------------- | ---------------- |
+| aaa.zone           | resell    | 70       | 35%    | 3      | Dynadot Inc | 08/09/2025 11:41 | 08/09/2026 11:41 |
+| AAAA.zone          | available | 68       | 84%    | 4      |             |                  |                  |
+| aak.zone           | available | 68       | 32%    | 3      |             |                  |                  |
+| AandE.zone         | available | 50       | 80%    | 7      |             |                  |                  |
+| aardwolf.zone      | available | 54       | 84%    | 8      |             |                  |                  |
+| aargh.zone         | available | 56       | 76%    | 5      |             |                  |                  |
+| aaronburr.zone     | available | 54       | 72%    | 10     |             |                  |                  |
+| aarp.zone          | premium   | 58       | 76%    | 4      |             |                  |                  |
+| aba.zone           | premium   | 72       | 88%    | 3      |             |                  |                  |
+| aback.zone         | available | 76       | 80%    | 5      |             |                  |                  |
+| abactinal.zone     | available | 50       | 1%     | 9      |             |                  |                  |
+| abaft.zone         | available | 43       | 2%     | 5      |             |                  |                  |
+| abalone.zone       | available | 60       | 84%    | 7      |             |                  |                  |
+| abashed.zone       | available | 60       | 2%     | 7      |             |                  |                  |
+| abasic.zone        | available | 54       | 2%     | 6      |             |                  |                  |
+| abatable.zone      | available | 54       | 1%     | 8      |             |                  |                  |
+| abate.zone         | available | 52       | 84%    | 5      |             |                  |                  |
+| abatement.zone     | available | 52       | 80%    | 9      |             |                  |                  |
+| abatic.zone        | available | 54       | 2%     | 6      |             |                  |                  |
+| abaxial.zone       | available | 54       | 2%     | 7      |             |                  |                  |
+| abaxially.zone     | available | 44       | 72%    | 9      |             |                  |                  |
+| abbatial.zone      | available | 50       | 1%     | 8      |             |                  |                  |
+| abbey.zone         | available | 56       | 80%    | 5      |             |                  |                  |
+| abbot.zone         | available | 50       | 80%    | 5      |             |                  |                  |
+| abbotcy.zone       | available | 56       | 72%    | 7      |             |                  |                  |
+| Abbott.zone        | available | 52       | 96%    | 6      |             |                  |                  |
+| abbreviate.zone    | available | 92       | 76%    | 10     |             |                  |                  |
+| abbreviated.zone   | available | 56       | 76%    | 11     |             |                  |                  |
+| abbreviater.zone   | available | 56       | 72%    | 11     |             |                  |                  |
+| abcconjecture.zone | available | 56       | 4%     | 14     |             |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/zone-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.ZONE one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
