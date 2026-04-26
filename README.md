@@ -1,22 +1,22 @@
-# Available .ZONE One-Word Domains (78,311)
+# Available .ZONE One-Word Domains (78,695)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-78%2C311%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-78%2C695%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .zone one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **78,311 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **78,695 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 78,311 domains
+**Public extract:** 1,000 rows · **Live catalog:** 78,695 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/zone`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ZONE one-word domain 
 
 ### Files
 
-- `zone.csv` — public CSV extract (10,000 rows)
-- `zone.json` — public JSON extract (10,000 rows)
+- `zone.csv` — public CSV extract (1,000 rows)
+- `zone.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| visualart.zone     | available | $51.98    | —             | 64             | 92     | 10     | namecheap                                                          |
-| valor.zone         | resell    | —         | —             | 76             | 96     | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| knowledge.zone     | premium   | $85.80    | $85.80        | 66             | 88     | 9      | namecheap                                                          |
-| yummy.zone         | available | $14.99    | $46.99        | 90             | 84     | 5      | name.com                                                           |
-| argo.zone          | resell    | —         | —             | 50             | 96     | 4      | NameCheap, Inc.                                                    |
-| loans.zone         | premium   | $128.70   | $128.70       | 58             | 52     | 5      | namecheap                                                          |
-| sportswear.zone    | available | $51.98    | —             | 70             | 84     | 10     | namecheap                                                          |
-| Astro.zone         | resell    | —         | —             | 73             | 92     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.                |
-| science.zone       | premium   | $1,040    | $1,040        | 106            | 43     | 7      | namecheap                                                          |
-| AAAA.zone          | available | $36.98    | —             | 68             | 84     | 4      | namecheap                                                          |
-| GMC.zone           | resell    | —         | —             | 50             | 92     | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| adult.zone         | premium   | $123.75   | $123.75       | 110            | 30     | 5      | name.com                                                           |
-| retailing.zone     | available | $51.98    | —             | 62             | 84     | 9      | namecheap                                                          |
-| tara.zone          | resell    | —         | —             | 80             | 88     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| fizz.zone          | premium   | —         | —             | 84             | 100    | 4      | —                                                                  |
-| pediatrics.zone    | available | $51.98    | —             | 62             | 84     | 10     | namecheap                                                          |
-| whitelist.zone     | resell    | —         | —             | 80             | 88     | 9      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| teflon.zone        | premium   | —         | —             | 80             | 100    | 6      | —                                                                  |
-| accreditation.zone | available | $14.99    | $46.99        | 62             | 84     | 13     | name.com                                                           |
-| tourism.zone       | resell    | —         | —             | 70             | 88     | 7      | Global Domains International, Inc. DBA DomainCostClub.com          |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| sportswear.zone  | available | $51.98    | —             | 70             | 84     | 10     | namecheap                                                          |
+| whitelist.zone   | resell    | —         | —             | 80             | 88     | 9      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| etc.zone         | premium   | $82.50    | —             | 58             | 34     | 3      | name.com                                                           |
+| probability.zone | available | $51.98    | —             | —              | 84     | 11     | namecheap                                                          |
+| caps.zone        | resell    | —         | —             | 66             | 80     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| girls.zone       | premium   | $123.75   | —             | 83             | 23     | 5      | name.com                                                           |
+| matcha.zone      | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                           |
+| homebrew.zone    | resell    | —         | —             | 66             | 80     | 9      | GoDaddy.com, LLC                                                   |
+| tinfoil.zone     | premium   | —         | —             | 81             | 96     | 8      | —                                                                  |
+| classes.zone     | available | $14.99    | $50.99        | 40             | 36     | 7      | name.com                                                           |
+| crescent.zone    | resell    | —         | —             | 54             | 80     | 8      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| goma.zone        | premium   | —         | —             | 70             | 96     | 4      | —                                                                  |
+| letsgo.zone      | available | $14.99    | —             | 57             | 31     | 7      | name.com                                                           |
+| data.zone        | resell    | —         | —             | 84             | 54     | 4      | Porkbun LLC                                                        |
+| Olsen.zone       | premium   | —         | —             | 54             | 96     | 5      | —                                                                  |
+| inspiration.zone | available | $14.99    | —             | 88             | 30     | 11     | name.com                                                           |
+| tech.zone        | resell    | —         | —             | 86             | 48     | 4      | Porkbun LLC                                                        |
+| firestone.zone   | premium   | —         | —             | 64             | 92     | 9      | —                                                                  |
+| blocks.zone      | available | $14.99    | —             | 53             | 29     | 6      | name.com                                                           |
+| trade.zone       | resell    | —         | —             | 82             | 46     | 5      | Porkbun LLC                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 78,311 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 78,695 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
