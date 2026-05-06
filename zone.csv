@@ -30,7 +30,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0d8c67fe-b713-47f9-b343-56865c41eef0,homes.zone,resell,,,86,34,5,"DNSPod, Inc.",21/12/2018 08:22,21/12/2026 08:22
 0db5c298-c93f-408b-a1a1-ed02b799587e,stormed.zone,available,14.99,,50,3,7,name.com,,
 0deafaa8-a9a8-4619-9af9-494eb238dfc9,arrested.zone,available,14.99,,60,7,8,name.com,,
-0ecdb061-32cc-426a-9b16-d9f31626e5bd,trade.zone,resell,,,82,46,5,Porkbun LLC,19/10/2017 08:22,19/10/2026 08:22
+0ecdb061-32cc-426a-9b16-d9f31626e5bd,trade.zone,resell,,,82,45,5,Porkbun LLC,19/10/2017 08:22,19/10/2026 08:22
 0effc3e0-753f-444b-ae9e-f750a34680fa,proxyfight.zone,available,14.99,,44,1,11,name.com,,
 0f10a1ba-e663-4351-8144-0349882908ae,worlds.zone,available,14.99,,62,17,6,name.com,,
 0f6fa0c3-03ca-4640-aca3-da49af8576f7,goingbad.zone,available,14.99,,46,1,9,name.com,,
@@ -626,8 +626,8 @@ e1729670-c345-4e9e-9bfa-6f4bb4187ecf,rheologic.zone,premium,,,49,72,9,,,
 c7a6ae6b-8b2a-4489-ae3c-7b9bdf060558,squilla.zone,premium,,,56,72,7,,,
 8f000b59-e896-43bd-9cda-f2abeb37a3c1,eastcoast.zone,premium,,,60,92,10,,,
 9c90da3d-615f-48ed-8611-40c22faa94f2,sacklike.zone,premium,,,50,76,8,,,
-f5c51e84-82b9-4367-a07e-574d203d3b1d,lookinto.zone,premium,,,70,3,9,,,
-b7e3f944-a894-46f3-b8ea-16207d8c8751,commodity.zone,premium,,,70,19,9,,,
+f5c51e84-82b9-4367-a07e-574d203d3b1d,lookinto.zone,premium,,,70,2,9,,,
+b7e3f944-a894-46f3-b8ea-16207d8c8751,commodity.zone,premium,,,70,18,9,,,
 e689b7d3-b2a4-4258-9ad3-1c1f55932d59,birthtongue.zone,premium,,,54,72,12,,,
 7a8e218d-f627-4a54-b0bb-a613ad861e16,castro.zone,premium,,,50,84,6,,,
 125778aa-ebce-4508-8dab-83c95ee5d292,makenobonesabout.zone,premium,,,68,72,19,,,

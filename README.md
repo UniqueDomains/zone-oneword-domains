@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .zone one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 78,763 domains · **Median ask:** $44.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-04  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/zone`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | tech.zone        | resell    | —         | —             | 86             | 48     | 4      | Porkbun LLC                                                        |
 | Olsen.zone       | premium   | —         | —             | 54             | 96     | 5      | —                                                                  |
 | blocks.zone      | available | $14.99    | —             | 53             | 29     | 6      | name.com                                                           |
-| trade.zone       | resell    | —         | —             | 82             | 46     | 5      | Porkbun LLC                                                        |
+| Media.zone       | resell    | —         | —             | 60             | 46     | 5      | Porkbun LLC                                                        |
 | firestone.zone   | premium   | —         | —             | 64             | 92     | 9      | —                                                                  |
 | gogreen.zone     | available | $14.99    | —             | 56             | 28     | 8      | name.com                                                           |
-| Media.zone       | resell    | —         | —             | 60             | 46     | 5      | Porkbun LLC                                                        |
+| trade.zone       | resell    | —         | —             | 82             | 45     | 5      | Porkbun LLC                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
