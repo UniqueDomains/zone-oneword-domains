@@ -154,7 +154,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b5a93d9-971c-4c8f-b2cd-fba3e6317766,poreover.zone,available,14.99,,62,1,9,name.com,,
 5bc4a98d-e647-4342-9ecd-66d23b64bed4,gonowhere.zone,available,14.99,,62,2,10,name.com,,
 5d0fccc2-49f2-4fc6-b254-8afa47d2d175,threats.zone,available,14.99,,44,8,7,name.com,,
-5d619511-42ad-454f-82fc-66a7d5a8f097,gaming.zone,resell,,,76,37,6,Porkbun LLC,27/09/2018 21:51,27/09/2026 21:51
+5d619511-42ad-454f-82fc-66a7d5a8f097,gaming.zone,resell,,,76,38,6,Porkbun LLC,27/09/2018 21:51,27/09/2026 21:51
 5e52d5ef-4b46-40aa-b4aa-db81de2d7147,sweatshop.zone,available,14.99,,56,8,10,name.com,,
 5fb2aa92-0146-48b3-982a-13377d2f55ab,keepunder.zone,available,14.99,,66,1,10,name.com,,
 5fd2595a-a716-421c-bea9-04ff2e69384c,chunks.zone,available,14.99,,46,8,6,name.com,,
@@ -458,7 +458,7 @@ e802701f-177d-485a-b988-9560edce990e,arbitrarily.zone,premium,,,52,1,11,,,
 f26f0fb0-21a8-4134-9e16-33bf833a8b26,tomorrows.zone,premium,,,,11,9,,,
 479acc8c-9a38-4d55-8bae-c1daf8db3c14,emotionallabor.zone,premium,,,54,76,15,,,
 546db6b4-2726-4594-81ce-5f23ecc3276b,instatunascendi.zone,premium,,,52,4,17,,,
-1e1d7b21-b690-488f-b41e-31e43a6bcf9b,inc.zone,premium,,,68,30,3,,,
+1e1d7b21-b690-488f-b41e-31e43a6bcf9b,inc.zone,premium,,,68,32,3,,,
 4fe46e7d-2989-4ede-b7a1-230b667a17c1,mooneyed.zone,premium,,,48,76,9,,,
 547f8938-56fb-403e-93f9-6a30beec6c7d,neoclassical.zone,premium,,,72,72,12,,,
 c85384e2-f238-4df5-8383-1afa25e8a024,greaterflamingo.zone,premium,,,52,72,16,,,
