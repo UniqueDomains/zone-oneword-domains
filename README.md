@@ -80,7 +80,7 @@ print(df.head())
 | tech.zone        | resell    | —         | —             | 86             | 48     | 4      | Porkbun LLC                                                        |
 | Olsen.zone       | premium   | —         | —             | 54             | 96     | 5      | —                                                                  |
 | blocks.zone      | available | $14.99    | —             | 53             | 29     | 6      | name.com                                                           |
-| Media.zone       | resell    | —         | —             | 60             | 46     | 5      | Porkbun LLC                                                        |
+| Media.zone       | resell    | —         | —             | 60             | 47     | 5      | Porkbun LLC                                                        |
 | firestone.zone   | premium   | —         | —             | 64             | 92     | 9      | —                                                                  |
 | gogreen.zone     | available | $14.99    | —             | 56             | 28     | 8      | name.com                                                           |
 | trade.zone       | resell    | —         | —             | 82             | 45     | 5      | Porkbun LLC                                                        |
