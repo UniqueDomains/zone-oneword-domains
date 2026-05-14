@@ -82,7 +82,7 @@ print(df.head())
 | blocks.zone      | available | $14.99    | —             | 53             | 29     | 6      | name.com                                                           |
 | Media.zone       | resell    | —         | —             | 60             | 47     | 5      | Porkbun LLC                                                        |
 | firestone.zone   | premium   | —         | —             | 64             | 92     | 9      | —                                                                  |
-| gogreen.zone     | available | $14.99    | —             | 56             | 28     | 8      | name.com                                                           |
+| gods.zone        | available | $14.99    | —             | 72             | 27     | 4      | name.com                                                           |
 | trade.zone       | resell    | —         | —             | 82             | 45     | 5      | Porkbun LLC                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
