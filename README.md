@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .zone one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 81,813 domains · **Median ask:** $18.63 · **High-demand under $2,500:** 286
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/zone`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| wholesale.zone | resell    | —         | —             | high           | low    | 9      | Spaceship, Inc.                                                    |
-| grew.zone      | available | $14.99    | —             | high           | low    | 4      | name.com                                                           |
-| caps.zone      | resell    | —         | —             | medium         | high   | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| inc.zone       | premium   | $854      | $854          | medium         | low    | 3      | namesilo                                                           |
-| apian.zone     | available | $8.98     | $51.98        | low            | low    | 5      | namecheap                                                          |
-| film.zone      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                                        |
-| science.zone   | premium   | $1,040    | $1,040        | high           | medium | 7      | namecheap                                                          |
-| brook.zone     | available | $14.99    | —             | medium         | low    | 5      | name.com                                                           |
-| seed.zone      | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                                        |
-| farms.zone     | available | $14.99    | —             | medium         | low    | 5      | name.com                                                           |
-| send.zone      | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd                       |
-| hanoi.zone     | available | $14.99    | —             | medium         | low    | 5      | name.com                                                           |
-| album.zone     | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
-| ohoh.zone      | available | $14.99    | —             | high           | low    | 5      | name.com                                                           |
-| drive.zone     | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                                       |
-| plier.zone     | available | $14.99    | —             | high           | low    | 5      | name.com                                                           |
-| nifty.zone     | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC                                                        |
-| rangy.zone     | available | $8.98     | $51.98        | medium         | low    | 5      | namecheap                                                          |
-| nurse.zone     | resell    | —         | —             | medium         | low    | 5      | DNSPod, Inc.                                                       |
-| roofs.zone     | available | $14.99    | —             | low            | low    | 5      | name.com                                                           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| grew.zone    | available | $14.99    | —             | high           | low    | 4      | name.com                                                           |
+| caps.zone    | resell    | —         | —             | medium         | high   | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| inc.zone     | premium   | $854      | $854          | medium         | low    | 3      | namesilo                                                           |
+| apian.zone   | available | $8.98     | $51.98        | low            | low    | 5      | namecheap                                                          |
+| film.zone    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                                        |
+| science.zone | premium   | $1,040    | $1,040        | high           | medium | 7      | namecheap                                                          |
+| brook.zone   | available | $14.99    | —             | medium         | low    | 5      | name.com                                                           |
+| seed.zone    | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                                        |
+| farms.zone   | available | $14.99    | —             | medium         | low    | 5      | name.com                                                           |
+| send.zone    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd                       |
+| hanoi.zone   | available | $14.99    | —             | medium         | low    | 5      | name.com                                                           |
+| album.zone   | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
+| ohoh.zone    | available | $14.99    | —             | high           | low    | 5      | name.com                                                           |
+| drive.zone   | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                                       |
+| plier.zone   | available | $14.99    | —             | high           | low    | 5      | name.com                                                           |
+| nifty.zone   | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC                                                        |
+| rangy.zone   | available | $8.98     | $51.98        | medium         | low    | 5      | namecheap                                                          |
+| nurse.zone   | resell    | —         | —             | medium         | low    | 5      | DNSPod, Inc.                                                       |
+| roofs.zone   | available | $14.99    | —             | low            | low    | 5      | name.com                                                           |
+| dollar.zone  | resell    | —         | —             | high           | low    | 6      | DNSPod, Inc.                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
