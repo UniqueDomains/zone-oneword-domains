@@ -1,10 +1,10 @@
-# Available .ZONE One-Word Domains (75,649)
+# Available .ZONE One-Word Domains (50,287)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-75%2C649%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C287%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .zone one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **75,649 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **50,287 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 75,649 domains · **Median ask:** $15.93 · **High-demand under $2,500:** 229
+**Public extract:** 1,000 rows · **Live catalog:** 50,287 domains · **Median ask:** $16.93 · **High-demand under $2,500:** 329
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/zone`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| ane.zone      | available | $8.98     | $51.98        | high           | low    | 3      | namecheap                                                          |
-| caps.zone     | resell    | —         | —             | high           | high   | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| inc.zone      | premium   | $854      | $854          | high           | low    | 3      | namesilo                                                           |
-| btw.zone      | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
-| seed.zone     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                                        |
-| democrat.zone | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo                                                           |
-| ixc.zone      | available | $8.98     | $51.98        | high           | low    | 3      | namecheap                                                          |
-| send.zone     | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd                       |
-| swimming.zone | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo                                                           |
-| amok.zone     | available | $8.98     | $51.98        | high           | low    | 4      | namecheap                                                          |
-| album.zone    | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
-| awny.zone     | available | $8.98     | $51.98        | high           | low    | 4      | namecheap                                                          |
-| nifty.zone    | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                                        |
-| grew.zone     | available | $14.99    | —             | high           | low    | 4      | name.com                                                           |
-| nurse.zone    | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                                       |
-| jolt.zone     | available | $14.99    | —             | high           | low    | 4      | name.com                                                           |
-| sight.zone    | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                                       |
-| tues.zone     | available | $14.99    | —             | high           | low    | 4      | name.com                                                           |
-| thing.zone    | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 40                                                  |
-| apian.zone    | available | $8.98     | $51.98        | high           | low    | 5      | namecheap                                                          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| bud.zone        | available | $14.99    | —             | high           | low    | 3      | name.com     |
+| inspired.zone   | resell    | $14.99    | —             | high           | low    | 8      | Sav.com, LLC |
+| pot.zone        | premium   | $1,040    | $1,040        | high           | low    | 3      | namecheap    |
+| ing.zone        | available | $12.99    | $38.99        | high           | low    | 3      | namesilo     |
+| alt.zone        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc  |
+| rag.zone        | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap    |
+| llp.zone        | available | $14.99    | —             | high           | low    | 3      | name.com     |
+| thc.zone        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc  |
+| discount.zone   | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo     |
+| oft.zone        | available | $8.98     | $51.98        | high           | low    | 3      | namecheap    |
+| cult.zone       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc  |
+| government.zone | premium   | $128.70   | $128.70       | high           | low    | 10     | namecheap    |
+| pug.zone        | available | $12.99    | $38.99        | high           | high   | 3      | namesilo     |
+| hype.zone       | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc. |
+| arak.zone       | available | $12.99    | $38.99        | high           | low    | 4      | namesilo     |
+| star.zone       | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc. |
+| baya.zone       | available | $8.98     | $51.98        | high           | low    | 4      | namecheap    |
+| week.zone       | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc. |
+| bias.zone       | available | $8.98     | $51.98        | high           | low    | 4      | namecheap    |
+| anima.zone      | resell    | —         | —             | high           | medium | 5      | Dynadot Inc  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 75,649 live domains                        |
+| 1,000-row public sample | 50,287 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 229 high-demand names under $2,500         |
+| Basic exported fields   | 329 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
