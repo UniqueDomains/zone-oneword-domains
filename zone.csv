@@ -3,7 +3,7 @@ ab335a0b-bb3e-40b0-8636-84a996aecab3,grapevine.zone,available,8.98,51.98,high,hi
 7e302f39-cea6-4f32-9c46-d842435a191c,packing.zone,available,12,38.99,high,low,7,unstoppable,,,29/09/2026 00:21
 f9c1ce1e-63db-40a2-a4e4-c097b2b71d1c,estimatable.zone,available,,,high,low,11,,,,
 a48e2fc2-62cb-4628-9fcf-f262500b2cc4,roles.zone,available,30.2,30.2,medium,low,5,cloudflare,,,28/09/2026 21:41
-36130e1a-0881-4a5b-8194-4eeac4d56dc1,badge.zone,resell,,,high,low,5,"Sav.com, LLC - 24",27/09/2025 15:15,27/09/2027 15:15,28/09/2026 04:45
+36130e1a-0881-4a5b-8194-4eeac4d56dc1,badge.zone,resell,,,high,low,5,"Sav.com, LLC - 24",27/09/2025 15:15,27/09/2027 15:15,01/10/2026 06:52
 7e357848-5e51-4076-9970-e413b36644e1,apartheid.zone,available,12.99,38.99,high,low,9,namesilo,,,19/09/2026 16:15
 42c98571-8fac-4b9c-a33c-d2fa5bb0e4c7,selflessly.zone,available,8.98,51.98,high,low,10,namecheap,,,13/09/2026 19:23
 7decb640-0af8-410f-af3a-51b385d3b7ba,slap.zone,available,8.98,51.98,high,low,4,namecheap,,,13/09/2026 23:26
@@ -30,7 +30,7 @@ b7ce27b6-d50f-4fa8-9216-3ecf808b5b5a,wednesdays.zone,available,,,high,high,10,,,
 0602b35b-bfc3-4a90-942f-1bfb088e3266,whipper.zone,available,,,high,high,7,,,,
 b0dab4a0-b23d-4c55-b3c5-302b6e1bd28f,rehabber.zone,available,,,high,high,8,,,,
 15f9f7b4-48fa-491d-9fe9-52ea549ed22c,socioeconomic.zone,available,8.98,51.98,high,high,14,namecheap,,,16/09/2026 12:07
-57553ed9-d607-4cd4-bfba-52bc2b82e948,mastermind.zone,available,12.99,38.99,high,high,10,namesilo,,,25/09/2026 11:56
+57553ed9-d607-4cd4-bfba-52bc2b82e948,mastermind.zone,available,30.2,30.2,high,low,10,cloudflare,,,01/10/2026 18:48
 ed904af2-70de-4c54-ba40-c96056b3f32e,interstitial.zone,available,,,high,high,12,,,,
 843e4b57-8aa8-4cae-91d0-51b5a3555d50,frilly.zone,available,8.98,51.98,high,low,6,namecheap,,,18/08/2026 15:51
 9962b2a0-d19f-4af6-8e95-6aab9a59a5b4,polytonality.zone,available,,,high,low,12,,,,
@@ -72,10 +72,12 @@ e5fb6c04-6925-4309-9ad0-5e07106295be,byod.zone,available,12.99,38.99,high,medium
 31411cd3-0d39-433d-89da-f0e0befdb815,novelists.zone,available,,,high,low,9,,,,
 4d0e2ba3-ca8b-4f0e-892b-00e59984aaf0,glassware.zone,available,,,high,high,9,,,,
 a45099ec-eeaf-4a76-a894-a58232bd6a15,mechanism.zone,available,8.98,51.98,high,low,9,namecheap,,,24/09/2026 14:15
-046a152f-5e9b-4234-836e-d05352e0e1d5,ing.zone,available,12.99,38.99,high,low,3,namesilo,,,25/09/2026 11:07
+046a152f-5e9b-4234-836e-d05352e0e1d5,ing.zone,available,12,38.99,high,low,3,unstoppable,,,02/10/2026 01:10
 870550cf-fb6e-487b-8b16-6526c567682a,peas.zone,available,12.99,38.99,high,low,4,namesilo,,,18/09/2026 10:13
 a697cefa-7c67-4cf1-bea8-421e2c5d17ed,sacrifices.zone,available,8.24,31.41,low,low,10,porkbun,,,28/09/2026 17:47
 7775aa7a-6386-4893-9cf1-4ee78a475c3c,brush.zone,available,12,,high,low,5,unstoppable,,,29/09/2026 04:48
+72e1afd8-b677-4a04-9eb1-526eeb8aedfb,jekyll.zone,available,8.98,51.98,high,low,6,namecheap,,,02/10/2026 01:06
+36df408f-e705-44ef-8c47-cb050057c092,noe.zone,available,7.96,31.25,high,low,3,spaceship,,,01/10/2026 09:31
 4c66e851-17e7-49f2-af9a-5fe788c1c2c0,transpire.zone,available,,,high,high,9,,,,
 24f59d13-1da6-4c68-947e-93a89c858197,lexicographer.zone,available,,,high,high,13,,,,
 fb5473ef-f652-4167-b2f9-16313a37c025,peevish.zone,available,8.98,51.98,high,low,7,namecheap,,,22/08/2026 10:21
@@ -114,13 +116,13 @@ fe485ade-fbc2-417f-8454-155c10cd50c5,externally.zone,available,8.98,51.98,high,l
 6b4ae4e3-ef2a-45d4-acd0-bd38093b8498,goodies.zone,available,,,high,medium,7,,,,
 2178bef6-93d3-4361-8489-177f33ae3ab3,boomed.zone,available,,,high,low,6,,,,
 adc134f0-9506-448e-8d0a-95949f1e44cd,embarrass.zone,available,30.2,30.2,high,low,9,cloudflare,,,29/09/2026 11:42
-3e3cc235-af55-4e74-967b-9eb3c7dedc19,maker.zone,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",25/09/2023 15:15,25/09/2027 15:15,29/09/2026 01:54
+3e3cc235-af55-4e74-967b-9eb3c7dedc19,maker.zone,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",25/09/2023 15:15,25/09/2027 15:15,01/10/2026 23:55
 6b1502d9-5eef-4631-8afa-5504d96e78d2,ascertainable.zone,available,,,high,high,13,,,,
 967c956e-a9b6-4b82-8634-76fc4428dc1e,refunded.zone,available,,,high,low,8,,,,
 f1f16f73-e943-4ff6-abfb-189a7e5d5bbb,mellifluous.zone,available,,,high,high,11,,,,
 9130530a-724f-4f32-82c2-23ef61fc42d7,courier.zone,available,8.24,32.21,high,low,7,dynadot,,,28/09/2026 18:49
 7dd737b4-d670-4fc5-a3ce-18855b7b7072,reparative.zone,available,,,high,high,10,,,,
-48920100-8be4-47b1-b959-80dc2cffb0a2,nesting.zone,available,,,high,high,7,,,,
+48920100-8be4-47b1-b959-80dc2cffb0a2,nesting.zone,available,7.96,31.25,high,low,7,spaceship,,,01/10/2026 07:46
 2a70c1d7-2f43-4b3e-b716-3dc5a13d6fdf,dollie.zone,available,,,high,high,6,,,,
 63ef1604-b8dc-42dc-bc6d-143fda7e6d33,stripes.zone,available,8.98,51.98,high,low,7,namecheap,,,24/09/2026 14:23
 e6b119a5-85f0-4703-adc1-a8d76cb7cafd,committee.zone,available,12.99,38.99,high,low,9,namesilo,,,29/09/2026 09:31
@@ -168,7 +170,9 @@ fade77de-c694-457b-9922-abce11a98786,duplicity.zone,available,8.98,51.98,high,lo
 082c6183-262f-40e7-8d78-a345242ec8a9,stops.zone,available,12,,high,low,5,unstoppable,,,30/09/2026 12:10
 17c6f340-782c-49c1-8fac-746c6a2aea9b,maginot.zone,available,12.99,38.99,high,low,7,namesilo,,,19/09/2026 04:15
 6de85eff-5df9-4fef-ad5b-1ff735fe43c1,skatelike.zone,available,,,high,high,9,,,,
+913edc0a-50ba-4a05-b31e-cf26d448816b,salle.zone,available,12.99,38.99,high,low,5,namesilo,,,01/10/2026 05:06
 749371be-92a2-4dd1-8ebb-254b580f6049,cruelty.zone,available,8.98,51.98,high,low,7,namecheap,,,24/09/2026 19:49
+55b79963-ec6e-4d1e-90fd-3424b161353a,daggett.zone,available,7.96,31.25,high,low,7,spaceship,,,02/10/2026 00:55
 f4960351-007c-4c48-8c25-79a8511e360e,multistorey.zone,available,,,high,high,12,,,,
 e8293bb8-0509-48cf-96dc-33417c7f4c4d,stargazer.zone,available,8.98,51.98,high,low,9,namecheap,,,20/09/2026 18:07
 c12986ae-57ae-4150-86bd-454b9ef11985,givingness.zone,available,,,high,low,10,,,,
@@ -211,7 +215,7 @@ c725619e-6bba-4050-b6d3-299b8e3b6d9b,goranboy.zone,available,,,high,high,8,,,,
 cc1e7cc0-51fc-4fe9-89fb-8b8cc0559cac,handbooks.zone,available,,,high,low,9,,,,
 b255117d-b267-463a-8aee-e92cab97a989,morality.zone,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 09:42
 3970cbc8-2014-4143-83c4-25d18c802e32,sequins.zone,available,,,high,low,7,,,,
-950cb5af-e1b0-4846-864c-4fd6c723cf57,llp.zone,available,14.99,,high,low,3,name.com,,,
+950cb5af-e1b0-4846-864c-4fd6c723cf57,llp.zone,available,7.96,31.25,high,low,3,spaceship,,,02/10/2026 01:32
 0d6fa0ab-5e05-44c5-ace8-099af7feb98e,detroit.zone,available,12.99,38.99,high,low,7,namesilo,,,29/09/2026 14:28
 969e8879-9f87-4c08-b379-c6420b448332,sweetmeat.zone,available,,,high,high,9,,,,
 ed335b3c-48e0-4d93-9ba5-4914f403500f,vaginas.zone,available,,,high,low,7,,,,
@@ -228,6 +232,7 @@ d188175e-4b0b-4272-aad4-b9f413f789fb,chelating.zone,available,,,high,low,9,,,,
 c75f2ef6-33b8-4a93-b81a-76cc27789698,scintilla.zone,available,,,high,high,9,,,,
 342f81f3-8d79-435e-aa18-2409e426b41b,frenchesque.zone,available,,,high,high,12,,,,
 06e39443-51bf-4b83-b01f-a06964df0071,indianness.zone,available,,,high,high,10,,,,
+2afa400a-b33d-4572-aa7b-a225fe33bb5a,karan.zone,available,7.96,31.25,high,low,5,spaceship,,,02/10/2026 00:39
 d6413b74-46bd-4223-8519-f9b35881d930,xenomorph.zone,available,,,high,high,9,,,,
 a7dc785d-d024-4b87-b768-9eaa6a20b6b7,betrothal.zone,available,12.99,38.99,high,low,9,namesilo,,,23/09/2026 11:34
 76edb99f-568d-441e-bff5-8f03158a3537,injection.zone,available,7.96,31.25,high,low,9,spaceship,,,28/09/2026 06:02
@@ -248,6 +253,7 @@ f33cd1a3-89c0-44dd-ad04-d83dcccce40d,momism.zone,available,,,high,high,6,,,,
 ffb414f5-1c01-4bc4-9fe5-baac36b402f5,gaminess.zone,available,,,high,high,8,,,,
 3cbc6cc0-de10-421e-8683-4fc8753e8526,weightlifter.zone,available,,,high,high,12,,,,
 65175785-c427-4c2f-ae71-52641c5ac81e,packeting.zone,available,,,medium,low,9,,,,
+93cff210-2ce9-4e4b-b7bc-992581e1f803,hammers.zone,available,12.99,38.99,high,low,7,namesilo,,,01/10/2026 08:09
 f23785cd-659b-41b3-82a3-e008df07d0e3,bioresource.zone,available,,,high,high,11,,,,
 3224c5fb-2336-4c64-931d-2e5b124525c8,manuka.zone,available,,,high,medium,6,,,,
 2f3c9337-2082-471c-85c3-4b1009eb0e30,backgrounds.zone,available,12.99,38.99,medium,low,11,namesilo,,,20/09/2026 22:12
@@ -394,7 +400,7 @@ cc499b7f-fae6-428f-a5a6-d49d71dd65f1,straits.zone,available,12.99,38.99,high,low
 f4b9c224-ecef-47d9-8192-c0c497e7e54c,desmodium.zone,available,,,high,medium,9,,,,
 5a33d6ad-87d5-4cd5-94d8-8c56f768e967,airframe.zone,available,8.98,51.98,high,low,8,namecheap,,,17/09/2026 23:10
 34e283ef-c4aa-4010-a5f1-a3e1d96205b4,surmount.zone,available,,,high,high,8,,,,
-12e2cd40-34ab-4003-b4b2-b8dabf618419,displaying.zone,available,,,high,low,10,,,,
+12e2cd40-34ab-4003-b4b2-b8dabf618419,displaying.zone,available,7.96,31.25,high,low,10,spaceship,,,01/10/2026 16:09
 8a12fa03-1b57-489d-9b54-517ed7b6e162,clapper.zone,available,8.98,51.98,high,low,7,namecheap,,,19/09/2026 20:51
 f0acac87-7565-41b6-aa83-e1be3eb0520c,absolutizable.zone,available,,,medium,low,13,,,,
 49a3bcae-1a7a-445b-9e4e-afb713dff236,threaded.zone,available,8.98,51.98,high,low,8,namecheap,,,11/09/2026 14:12
@@ -454,6 +460,7 @@ eddb3cfa-ae67-4bf7-9cb4-288ed87e4f0a,canvas.zone,resell,,,high,medium,6,"DNSPod,
 82bac984-ad1c-433e-ad43-8f9ebbed7193,burnished.zone,available,8.98,51.98,high,low,9,namecheap,,,11/08/2026 10:59
 f94ce252-db44-4ec4-aa25-8cdfe4caef43,marian.zone,available,8.98,51.98,high,low,6,namecheap,,,24/08/2026 15:53
 b71ea20d-f097-4e25-8c53-8f1ca90ce12e,nuclei.zone,available,8.98,51.98,medium,low,6,namecheap,,,
+3a44bf82-33f3-4439-a194-fcaac01897ef,legge.zone,available,12.99,38.99,high,low,5,namesilo,,,01/10/2026 22:42
 b3c1f9a2-e4da-4b9a-a86b-fb690e1911bd,disappoint.zone,available,12,,high,low,10,unstoppable,,,29/09/2026 14:14
 9ae831e4-ecb3-4ef4-ada9-6d800f0874d3,encounters.zone,available,8.24,32.21,medium,low,10,dynadot,,,29/09/2026 17:37
 d64e04c7-18aa-46c0-a462-d4a943b38b69,aberrance.zone,available,8.98,51.98,medium,low,9,namecheap,,,16/09/2026 15:12
@@ -505,7 +512,7 @@ ea60b688-6d69-4fc8-bb70-831128a32a5c,drown.zone,available,12.99,38.99,high,low,5
 4bba51bb-74c6-4617-93b6-97f149a18fc9,ticklish.zone,available,8.98,51.98,high,low,8,namecheap,,,11/09/2026 15:33
 fe4f994d-c1e3-4f79-a672-ba6168778cf0,venetia.zone,available,30.2,30.2,high,high,7,cloudflare,,,30/09/2026 02:18
 c505bac1-2848-4ca8-ac1f-7c5cc38f1669,dickensian.zone,available,8.98,51.98,high,low,10,namecheap,,,14/08/2026 06:25
-3982ef48-d469-4df7-aa34-a3931e2b0b21,tko.zone,available,,,high,high,3,,,,
+3982ef48-d469-4df7-aa34-a3931e2b0b21,tko.zone,available,7.96,31.25,high,high,3,spaceship,,,02/10/2026 02:28
 56134b51-edaa-4c01-874b-598bce9eb6f4,mcnamara.zone,available,12.99,38.99,high,low,8,namesilo,,,27/09/2026 08:09
 56c0537d-3bfc-469e-9dad-4664631b6e41,artery.zone,available,12.99,38.99,high,low,6,namesilo,,,20/09/2026 10:30
 0cbad5ab-8acc-41ab-9c0d-92ea160955b3,queencraft.zone,available,,,high,high,10,,,,
@@ -578,7 +585,7 @@ f8aafda6-b22c-479c-9a25-af8703cf1091,lsu.zone,available,12,,high,low,3,unstoppab
 b5cf8f0e-f05e-454c-8d56-8511574b4b69,whitecup.zone,available,,,high,high,8,,,,
 f2f2b2da-b3bc-45f8-9623-c686bb188bea,neurotoxic.zone,available,8.98,51.98,medium,low,10,namecheap,,,03/09/2026 16:25
 fcc74932-420d-440e-bd86-7a19f8058d7e,krishna.zone,available,7.96,31.25,high,low,7,spaceship,,,29/09/2026 07:26
-f2e699c0-c557-4373-b837-9cb23c6f53f4,polyurethane.zone,available,,,high,high,12,,,,
+f2e699c0-c557-4373-b837-9cb23c6f53f4,polyurethane.zone,available,8.24,32.21,high,high,12,dynadot,,,02/10/2026 02:19
 44fa05b6-54ee-48fa-b748-caa8d87178cc,lordstown.zone,available,,,high,high,9,,,,
 a83a706b-0446-4747-bba0-cd2e8ff5e814,subtil.zone,available,,,high,high,6,,,,
 81cedee6-9b50-4870-baf8-a66d6b4e2729,cheerfully.zone,available,30.2,30.2,high,low,10,cloudflare,,,28/09/2026 13:48
@@ -601,7 +608,7 @@ fa21f519-1695-4377-9723-93d6a0d23f39,lamaism.zone,available,,,high,high,7,,,,
 439d9e5a-12bb-4a93-a32c-b236bbaa3792,voltmeter.zone,available,,,high,high,9,,,,
 e16e2367-34f1-4761-8ea1-d1ae2d4c055d,meteorite.zone,available,,,high,high,9,,,,
 8e04fd12-bdcb-4dd9-adae-3f1c4e779ffc,alphabetiform.zone,available,,,high,high,13,,,,
-5fd8ebb8-ead0-4bc6-b50f-263e40661984,transcendent.zone,available,,,high,high,12,,,,
+5fd8ebb8-ead0-4bc6-b50f-263e40661984,transcendent.zone,available,7.96,31.25,high,high,12,spaceship,,,02/10/2026 02:28
 7b56b722-46af-4767-b859-bc248fd16c6c,successor.zone,available,8.24,32.21,high,low,9,dynadot,,,30/09/2026 12:13
 582abc18-5f1d-41d7-a004-d018e88e9583,elderberry.zone,available,12.99,38.99,high,low,10,namesilo,,,24/09/2026 00:39
 bccc26a8-9350-46bf-9136-24714c05459a,soupspoon.zone,available,,,high,high,9,,,,
@@ -623,6 +630,7 @@ d490c7ff-a728-4a5f-9f33-6df2994b41c2,selfenclosed.zone,available,,,medium,low,13
 cae58a63-a30d-41cd-b772-ae3c24237f62,telepathic.zone,available,8.98,51.98,high,low,10,namecheap,,,11/09/2026 10:18
 b17aec16-8388-40b8-8b13-051affedb78c,siberian.zone,available,14.99,50.99,high,low,8,name.com,,,27/09/2026 21:41
 c04c5da0-857f-4aa7-9724-e9c281725d19,preprinted.zone,available,,,medium,low,11,,,,
+9677683c-94f7-47c2-bb42-b34621f65917,braden.zone,available,12,,high,low,6,unstoppable,,,01/10/2026 18:20
 7ec84ed1-c83f-44c5-bb05-a33db24e37db,ferny.zone,available,8.98,51.98,high,low,5,namecheap,,,18/08/2026 02:00
 1680ceb8-2476-4ce2-a734-f0c8b8e78d9e,recesses.zone,available,,,medium,low,8,,,,
 fb457998-0169-4272-81fa-33a7c78f8889,fortunes.zone,available,12,,medium,low,8,unstoppable,,,29/09/2026 05:22
@@ -736,7 +744,7 @@ fcc513cc-c75c-4d80-b166-15ead74c01fc,sparklers.zone,available,,,high,low,9,,,,
 7c6fe5c7-9914-439c-b137-40383b5645c8,baroness.zone,available,12.99,38.99,high,low,8,namesilo,,,22/09/2026 07:21
 b475af97-8614-4974-9e0e-0df3a8590e55,tashkent.zone,available,12.99,38.99,high,low,8,namesilo,,,24/09/2026 12:32
 b0408d8f-2140-4cb8-b898-78f477b49c5c,bud.zone,available,8.98,51.98,high,low,3,namecheap,,,29/09/2026 04:58
-4d7a901a-173b-4ee1-9122-3ee92cc28ff1,revolves.zone,available,,,high,low,8,,,,
+4d7a901a-173b-4ee1-9122-3ee92cc28ff1,revolves.zone,available,12.99,38.99,medium,low,8,namesilo,,,02/10/2026 03:02
 2d4a29cc-902c-403d-82e6-c86846e51bd0,seles.zone,available,,,high,high,5,,,,
 e388a29c-f78c-4055-bc86-2b5d1b784d4c,fowski.zone,available,,,high,high,6,,,,
 4d6059b5-4611-4635-bb6e-ca297542f500,watcher.zone,available,12,,high,high,7,unstoppable,,,30/09/2026 02:19
@@ -772,8 +780,8 @@ ae7677a4-a20a-487b-a1e3-f70844dc8a68,playball.zone,available,12.99,38.99,high,hi
 4c384705-54fe-40c8-8460-9b9959f1f5af,astrogator.zone,available,12.99,38.99,high,low,10,namesilo,,,20/09/2026 17:41
 1a46e256-f63c-42c8-945f-8db623d03368,browallia.zone,available,,,high,high,9,,,,
 a2081b67-4c8d-4ba3-a200-ba953d86ba90,nobleness.zone,available,,,high,high,9,,,,
-63e9d184-7932-4969-ae85-371fcb313661,neurologist.zone,available,,,high,high,11,,,,
-c7dd6daf-7f2a-4722-abbb-f3c982c93158,crowning.zone,available,8.98,51.98,high,high,8,namecheap,,,27/09/2026 05:39
+63e9d184-7932-4969-ae85-371fcb313661,neurologist.zone,available,12,,high,high,11,unstoppable,,,02/10/2026 02:16
+c7dd6daf-7f2a-4722-abbb-f3c982c93158,crowning.zone,available,30.2,30.2,high,low,8,cloudflare,,,01/10/2026 22:58
 bf15faff-3d1a-42bb-b206-280f4782b8ae,lightliness.zone,available,,,high,high,11,,,,
 3006f5e9-e0ff-4b92-9d07-8c224083bfc4,tarawa.zone,available,8.98,51.98,high,low,6,namecheap,,,21/09/2026 19:26
 46896608-12df-4925-aab5-36b7602aa86b,acquitted.zone,available,8.98,51.98,high,low,9,namecheap,,,
@@ -799,11 +807,12 @@ a8d6ffe2-185c-49ba-bd2b-54f78756fc43,apeldoorn.zone,available,12.99,38.99,high,l
 19803266-3bd7-49ef-8028-1775aab11c19,caskets.zone,available,,,high,low,7,,,,
 c7987ec0-918e-451a-91e4-4976640fac51,reused.zone,available,,,high,medium,6,,,,
 5b015425-0e9f-4872-b4c2-4d8ba5abd4ae,repave.zone,available,,,high,high,6,,,,
+b184c906-84ae-4858-9778-e49f2f44e6fa,xerxes.zone,available,12.99,38.99,medium,low,6,namesilo,,,01/10/2026 16:35
 ecfa8521-5f65-42b1-b5ff-24bf2217c117,barbequed.zone,available,,,high,high,9,,,,
 4b9fa6a8-ca6b-4f7e-ae00-e9906d02e68b,alchemic.zone,available,8.98,51.98,high,low,8,namecheap,,,
 3e00782c-df6d-4de2-9ea8-7e617ec5cad9,reentrant.zone,available,8.98,51.98,high,low,10,namecheap,,,09/09/2026 10:51
 7ee88419-eb1a-4334-b6f9-21c0b9a307f9,presume.zone,available,7.96,31.25,medium,low,7,spaceship,,,29/09/2026 00:37
-726036b4-1cf2-42e0-8dfa-5d47cfd1f732,porpoise.zone,available,,,high,high,8,,,,
+726036b4-1cf2-42e0-8dfa-5d47cfd1f732,porpoise.zone,available,12,,high,high,8,unstoppable,,,02/10/2026 02:19
 d48f10f5-3c8a-4710-ad18-23d0fe68adfd,unopen.zone,available,8.98,51.98,medium,low,6,namecheap,,,10/09/2026 07:06
 9dfdeaac-7158-420e-8a29-cc587be97484,concan.zone,available,,,high,high,6,,,,
 48aaf5f6-eeb4-4497-8a57-7e5634388b5d,steering.zone,available,12.99,38.99,medium,low,8,namesilo,,,28/09/2026 15:24
@@ -821,7 +830,7 @@ ccbe2bf4-e1cb-49f8-a30f-4f7bbe88918f,tastes.zone,available,12.99,38.99,medium,lo
 ad367060-68c2-4a12-8ef0-3267c111fdde,drawstring.zone,available,,,high,high,10,,,,
 16aca642-b274-48e9-a681-d245b1472a33,daunting.zone,available,14.99,50.99,high,low,8,name.com,,,13/08/2026 18:48
 eafdf462-5fdc-46cb-9798-740190c7c67e,dried.zone,available,8.98,51.98,high,low,5,namecheap,,,14/08/2026 18:59
-862c8db0-40f0-4ef1-902b-8fef3800099b,merengue.zone,available,,,high,high,8,,,,
+862c8db0-40f0-4ef1-902b-8fef3800099b,merengue.zone,available,12,,high,high,8,unstoppable,,,02/10/2026 02:16
 ed3766d2-3547-4cb5-952f-ffa4d0f37023,liturgic.zone,available,,,high,high,8,,,,
 9f10fb66-49ef-42a5-a245-7cb862bb7c58,washes.zone,available,8.98,51.98,medium,low,6,namecheap,,,20/09/2026 04:54
 fa836195-5be1-43ec-8003-be87bdee1ac4,contradiction.zone,available,7.96,31.25,high,low,13,spaceship,,,29/09/2026 15:55
@@ -852,7 +861,7 @@ f843c848-9b24-434e-90b0-ac9c36b1c42b,constants.zone,available,8.98,51.98,high,lo
 af37f55a-62b0-45e3-b54e-5256bcc6ca5f,oft.zone,available,8.98,51.98,high,low,3,namecheap,,,14/09/2026 20:06
 2dddcb5c-118d-4971-96d3-3a7426a54f72,postmortal.zone,available,8.98,51.98,medium,low,10,namecheap,,,09/09/2026 00:33
 e59b6e4b-d764-48fb-81d2-f3eebbec01d3,aggressively.zone,available,7.96,31.25,high,low,12,spaceship,,,30/09/2026 11:34
-69366107-28c8-4e47-9c72-715deea9b10e,tights.zone,available,51.98,,high,high,6,namecheap,,,
+69366107-28c8-4e47-9c72-715deea9b10e,tights.zone,available,12.99,38.99,high,high,6,namesilo,,,02/10/2026 02:28
 0c750162-ee2d-4a54-ab18-e00954750907,expatriates.zone,available,,,high,low,11,,,,
 ddcea431-a527-482d-b91f-180629ead8ac,fouka.zone,available,,,high,high,5,,,,
 2ae872d8-c18c-44b2-a8bf-b23bb3d77951,finely.zone,available,8.98,51.98,high,low,6,namecheap,,,14/09/2026 11:23
@@ -880,13 +889,14 @@ e0041e96-d84e-4380-8cf6-77d8b90d471d,callas.zone,available,12.99,38.99,high,high
 d734de4c-c294-4f81-8ad0-0833fa281683,laziness.zone,available,12.99,38.99,medium,low,8,namesilo,,,28/09/2026 17:35
 8cd85369-6512-4514-acac-9a68f8f5286c,automatically.zone,available,30.2,30.2,high,low,13,cloudflare,,,28/09/2026 07:07
 a9ba8f90-6e23-4f55-8d80-b44c64c42962,leprous.zone,available,8.98,51.98,medium,low,7,namecheap,,,23/08/2026 00:12
+3fd90190-3549-46be-bafa-9775a8bef1bc,letitia.zone,available,12.99,38.99,high,low,7,namesilo,,,02/10/2026 00:22
 e3f13db4-176e-4dce-9588-94855de2252b,extracting.zone,available,,,medium,low,10,,,,
 cd4169c0-dc5f-453d-a175-5837a1299615,richness.zone,available,12.99,38.99,high,low,8,namesilo,,,17/09/2026 14:41
 fa6642ef-6613-4257-9bfe-b582297e3995,heartbeats.zone,available,,,high,medium,10,,,,
-42e85383-d262-4c9e-a9b5-0fbcd58514be,pesticide.zone,available,,,high,high,9,,,,
+42e85383-d262-4c9e-a9b5-0fbcd58514be,pesticide.zone,available,8.24,31.41,high,low,9,porkbun,,,01/10/2026 21:15
 7a44418d-cf21-49c5-bc4a-6ec285a06ac6,deprave.zone,available,8.98,51.98,high,low,7,namecheap,,,13/08/2026 02:24
 b0eb5c47-e91c-4779-b2c7-f988f954e8cd,supercommon.zone,available,,,high,medium,11,,,,
-968b140a-0fd9-4846-8cf4-258ed1538520,strum.zone,available,,,high,high,5,,,,
+968b140a-0fd9-4846-8cf4-258ed1538520,strum.zone,available,8.98,51.98,high,high,5,namecheap,,,02/10/2026 02:27
 a5c14f42-6b93-4967-a3f8-c9a631e8592a,afternoons.zone,available,30.2,30.2,high,low,10,cloudflare,,,29/09/2026 10:29
 1cd432b4-d334-43df-8f79-88f70d11f381,maturation.zone,available,8.98,51.98,high,low,10,namecheap,,,20/08/2026 20:27
 5e62e265-62bb-4e97-9132-da5e16e83eeb,kabob.zone,available,,,high,high,5,,,,
@@ -905,6 +915,7 @@ dd03ca23-7b16-495d-9db7-969081bbbae2,alignment.zone,available,12.99,38.99,high,l
 76846d15-f158-4ec5-81e8-b2d469396782,coppinger.zone,available,,,high,high,9,,,,
 ac0f9ade-0147-4353-9636-60c17057b70e,modestly.zone,available,8.98,51.98,high,low,8,namecheap,,,15/09/2026 15:13
 5246bc74-240f-46d3-8169-dc781b6175f7,placeboes.zone,available,,,medium,low,9,,,,
+cc460277-4ee7-4aeb-aad1-28a530197dd2,subic.zone,available,12,,high,low,5,unstoppable,,,02/10/2026 01:16
 108954b9-1a8a-4516-aa2d-e3965e9f1a95,counteradvertising.zone,available,,,high,high,18,,,,
 334d710e-2d21-4a5c-9d5a-d66155d814c5,raceday.zone,available,7.96,31.25,high,high,7,spaceship,,,29/09/2026 02:21
 75d87ece-0e1c-4bed-914a-22beffe9d7dd,greatening.zone,available,,,medium,low,10,,,,
@@ -912,6 +923,7 @@ ac0f9ade-0147-4353-9636-60c17057b70e,modestly.zone,available,8.98,51.98,high,low
 9cdf378d-4f03-4ff3-806e-14d0bdcf2ce0,subtopic.zone,available,,,high,high,8,,,,
 5241f971-537a-4332-95b0-0fad30d4c6d8,meaningless.zone,available,12.99,38.99,medium,low,11,namesilo,,,28/09/2026 15:49
 4e9f5e9d-9ef7-47e0-96cc-b66493329a51,wetheringsett.zone,available,,,high,high,13,,,,
+d572fe57-1124-4d30-9c9c-ff84509aefc4,northumbria.zone,available,8.98,51.98,high,low,11,namecheap,,,01/10/2026 23:59
 7cc13ed0-1c8e-4f6b-9054-383b8b3177d0,blessings.zone,available,8.24,32.21,medium,low,9,dynadot,,,28/09/2026 17:50
 cf1cbe0b-5d5e-45b0-acbf-ce173633d966,innocency.zone,available,,,high,high,9,,,,
 3e606cfc-8c96-4702-b0e9-b4e47918e334,sesquiterpene.zone,available,,,high,high,13,,,,
@@ -956,8 +968,8 @@ bf0bc7a8-d0b8-4f39-bf0d-c2980acdd085,evenly.zone,available,8.98,51.98,high,low,6
 8a7ac0fd-397b-4993-baf7-254187b7a0f9,stripboard.zone,available,,,high,high,10,,,,
 81314331-5630-4357-bd0d-f6ceb85a91a2,shirtlessness.zone,available,,,medium,low,13,,,,
 702c61dd-880d-4d53-99ae-924d5234b76b,auctioneer.zone,available,12.99,38.99,high,low,10,namesilo,,,21/09/2026 02:42
-a9d4db97-3f46-4f55-96ec-a1ee613febbb,seamen.zone,available,,,high,high,6,,,,
-7f022303-d217-4925-b463-26371b92a521,encouraging.zone,available,14.99,,high,low,11,name.com,,,
+a9d4db97-3f46-4f55-96ec-a1ee613febbb,seamen.zone,available,12.99,38.99,high,low,6,namesilo,,,02/10/2026 01:38
+7f022303-d217-4925-b463-26371b92a521,encouraging.zone,available,30.2,30.2,high,low,11,cloudflare,,,01/10/2026 06:18
 dc7fd9ea-9266-4f1b-ad3c-267205cfdfc2,palawan.zone,available,12.99,38.99,high,high,7,namesilo,,,27/09/2026 05:47
 f9f02968-04a7-40d8-862f-a00d4dfb2a04,vitiate.zone,available,8.98,51.98,medium,low,7,namecheap,,,13/08/2026 02:22
 b35684b9-1011-4ba1-9b5b-be91104da6f5,uganda.zone,available,,,high,high,6,,,,
@@ -987,15 +999,3 @@ d6081115-b2c8-4c90-a671-d24ee51e0908,cuisines.zone,available,,,high,medium,8,,,,
 66ddc0cc-e488-48c1-af99-74b3282a0748,bezzant.zone,available,12.99,38.99,medium,low,7,namesilo,,,23/09/2026 12:17
 8ae6bf2c-b58f-400c-ba50-0bbed2a793e3,expository.zone,available,8.98,51.98,high,low,10,namecheap,,,17/08/2026 18:39
 979e5768-5866-46b9-b80c-d3658920ba31,sailmaking.zone,available,,,high,low,10,,,,
-147cf563-7b51-4b6e-88ee-185e807bc639,abrader.zone,available,8.98,51.98,medium,low,7,namecheap,,,16/09/2026 16:48
-c581a38c-dc74-43d4-9d95-655c66ee982a,specks.zone,available,8.98,51.98,medium,low,6,namecheap,,,20/09/2026 10:46
-cf2eef23-1640-4487-b413-20f57f56a0ef,annulate.zone,available,8.98,51.98,high,low,8,namecheap,,,
-548efdd9-cad5-4955-839b-934e24512f82,wigeon.zone,available,12.99,38.99,high,low,6,namesilo,,,19/09/2026 03:00
-7fef94d3-0ade-4d7e-8819-2dbeafc96477,overleaf.zone,available,8.98,51.98,medium,low,8,namecheap,,,15/09/2026 18:27
-cc9720b0-ec0f-466d-8f62-2dd12dfd3dcf,distinctly.zone,available,8.98,51.98,high,low,10,namecheap,,,14/09/2026 13:20
-9c2e127d-7ca0-4f75-8d81-2b680d6b08d2,encasing.zone,available,,,high,high,8,,,,
-dbf229b6-b976-4b32-9527-c25cbdf4e48b,rusher.zone,available,,,high,high,6,,,,
-5d6c9951-33ad-4350-9f7d-4bb00bb15ad6,discount.zone,premium,128.7,128.7,high,low,8,namecheap,,,29/09/2026 01:01
-0216f7fd-8d7d-4b86-a70b-1ca9aaa772b5,incursive.zone,available,8.98,51.98,medium,low,9,namecheap,,,22/08/2026 02:09
-97bfd9cb-6daf-4637-8db1-b7ca4724b898,picker.zone,available,12.99,38.99,high,low,6,namesilo,,,24/09/2026 14:45
-6c7f88bb-e29c-4dba-8937-9cd81a1b7665,preanalyse.zone,available,,,high,high,10,,,,
