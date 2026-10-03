@@ -1,10 +1,10 @@
-# Available .ZONE One-Word Domains (53,635)
+# Available .ZONE One-Word Domains (54,673)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-53%2C635%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-54%2C673%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .zone one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **53,635 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **54,673 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 53,635 domains · **Median ask:** $15.82 · **High-demand under $2,500:** 2,279
+**Public extract:** 1,000 rows · **Live catalog:** 54,673 domains · **Median ask:** $15.64 · **High-demand under $2,500:** 2,291
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/zone`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bud.zone        | available | $8.98     | $51.98        | high           | low    | 3      | namecheap         |
-| inspired.zone   | resell    | $14.99    | —             | high           | low    | 8      | Sav.com, LLC      |
-| ami.zone        | premium   | $38.94    | $38.94        | high           | high   | 3      | namesilo          |
-| cea.zone        | available | $12       | —             | high           | low    | 3      | unstoppable       |
-| alt.zone        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| cic.zone        | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship         |
-| doj.zone        | available | $12.99    | $38.99        | high           | low    | 3      | namesilo          |
-| eos.zone        | resell    | —         | —             | high           | low    | 3      | —                 |
-| ito.zone        | premium   | $102.67   | $102.67       | medium         | low    | 3      | spaceship         |
-| har.zone        | available | $12.99    | $38.99        | high           | low    | 3      | namesilo          |
-| cult.zone       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
-| pot.zone        | premium   | $1,040    | $1,040        | high           | low    | 3      | namecheap         |
-| ing.zone        | available | $12       | $38.99        | high           | low    | 3      | unstoppable       |
-| firm.zone       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 23 |
-| rag.zone        | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap         |
-| llp.zone        | available | $7.96     | $31.25        | high           | low    | 3      | spaceship         |
-| hype.zone       | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.      |
-| government.zone | premium   | $128.70   | $128.70       | high           | low    | 10     | namecheap         |
-| lsu.zone        | available | $12       | —             | high           | low    | 3      | unstoppable       |
-| star.zone       | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| bud.zone      | available | $8.98     | $51.98        | high           | low    | 3      | namecheap         |
+| inspired.zone | resell    | $14.99    | —             | high           | low    | 8      | Sav.com, LLC      |
+| ami.zone      | premium   | $34.36    | $34.36        | high           | medium | 3      | spaceship         |
+| cea.zone      | available | $12       | —             | high           | low    | 3      | unstoppable       |
+| eos.zone      | resell    | —         | —             | high           | low    | 3      | —                 |
+| bmp.zone      | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap         |
+| doj.zone      | available | $12.99    | $38.99        | high           | low    | 3      | namesilo          |
+| cult.zone     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| cic.zone      | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship         |
+| ene.zone      | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare        |
+| firm.zone     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 23 |
+| ito.zone      | premium   | $102.67   | $102.67       | medium         | low    | 3      | spaceship         |
+| fmc.zone      | available | $7.96     | $31.25        | high           | low    | 3      | spaceship         |
+| hype.zone     | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.      |
+| pot.zone      | premium   | $1,040    | $1,040        | high           | low    | 3      | namecheap         |
+| har.zone      | available | $12.99    | $38.99        | high           | low    | 3      | namesilo          |
+| star.zone     | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.      |
+| rag.zone      | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap         |
+| ing.zone      | available | $12       | $38.99        | high           | low    | 3      | unstoppable       |
+| week.zone     | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 53,635 live domains                        |
+| 1,000-row public sample | 54,673 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2,279 high-demand names under $2,500       |
+| Basic exported fields   | 2,291 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZONE One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
